@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.8"
 rich = "^13.9.4"
 psutil = "^6.1.0"
-Jinja2 = "^3.1.4"
+Jinja2 = "^3.1.6"
 PyYAML = "^6.0.2"
 setuptools = {version = "^75.6.0", python = ">=3.9"}
 ansible-runner = [{ version = "==2.3.6", python = "==3.8" },
